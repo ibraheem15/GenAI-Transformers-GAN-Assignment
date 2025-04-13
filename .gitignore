@@ -1,0 +1,11 @@
+*.tar*
+venv
+cifar-10*
+data
+*.pt
+*.h5
+*.keras
+*.png
+*.jpg
+*.jpeg
+latex file
